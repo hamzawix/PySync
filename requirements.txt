@@ -1,0 +1,4 @@
+paramiko==2.4.0
+python-debian==0.1.27
+ssh-import-id==5.5
+watchdog==0.8.3
